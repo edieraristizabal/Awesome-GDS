@@ -79,6 +79,15 @@ MIT Edx
 Prof. Michael Nielsen
 
 
+[Applied Time Series Analysis](https://online.stat.psu.edu/stat510/)\
+The Pennsylvania State University
+
+
+[Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)\
+Instructor: Larry Wasserman
+
+### Github
+
 [Machine Learning](https://github.com/rasbt/stat479-machine-learning-fs19)
 Prof. Sebastian Raschka\
 University Wisconsin-Madison
@@ -86,10 +95,6 @@ University Wisconsin-Madison
 
 [Machine Learning Notebooks](https://github.com/dersteppenwolf/handson-ml)\
 Aurélien Geron - book Hands-on Machine Learning with Scikit-Learn and TensorFlow
-
-
-[Applied Time Series Analysis](https://online.stat.psu.edu/stat510/)\
-The Pennsylvania State University
 
 
 [TensorFlow for Deep Learning Research](https://github.com/dersteppenwolf/tf-stanford-tutorials)\
@@ -136,10 +141,6 @@ Prof. Andreas Mueller
 
 [Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book)\
 Prof. Sebastian Raschka
-
-
-[Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)\
-Instructor: Larry Wasserman
 
 ## Spatial analysis
 
