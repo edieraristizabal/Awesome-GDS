@@ -3,9 +3,11 @@
 ## Table of contents
 
 - [Remote sensing](#remote-sensing)
+- [Google Earth Engine](#google-earth-engine)
 - [Machine learning](#machine-learning)
 - [Spatial analysis](#spatial-analysis)
 - [Spatial analysisi with R](#spatial-analysis-with-r)
+- [Spatial analysisi with Python](#spatial-analysis-with-python)
 - [Data visualization](#data-visualization)
 
 ## Remote sensing
@@ -37,9 +39,12 @@ Prof. Eric Bullock
 https://github.com/geohackweek
 
 ### Websites
+
 [GISLOUNGE](https://www.gislounge.com/author/gis-contributor/)
 
+
 [Spatial Statistics Resources](https://spatialstats-analysis-1.hub.arcgis.com/)
+
 
 [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/index.html)
 Ujaval Gandhi
@@ -53,94 +58,23 @@ https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-n
 
 https://opensourceoptions.com/?s=qgis
 
+## Google Earth Engine
 
-Google Earth Aplication [example](https://showcase.earthengine.app/view/jrc-global-surface-water-animation#center=%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-76.81556154179842%2C7.020797314255969%5D%7D;zoom=10;aoi=%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B-75.33419345524091%2C6.373956652872744%5D%2C%5B-75.33419345524091%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.373956652872744%5D%5D%5D%2C%22geodesic%22%3Afalse%2C%22evenOdd%22%3Atrue%7D;render=Fading%20history;fps=10;fade=0.1)
+### Website
 
-## Machine learning
-
-### Courses
-
-[Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)\
-Carlos Fernandez-Granda (Center for Data Science)
+[Earth Engine Apps](https://www.earthengine.app/)\
+Get started
 
 
-http://www.i.kyoto-u.ac.jp/mlss15/
+[Spatial Data Management with Google Earth Engine](https://courses.gisopencourseware.org/course/view.php?id=29)
 
 
-[Deep Learning](https://sites.google.com/view/mlss-2019/lectures-and-tutorials?authuser=0)\
-Kevin Webster, Pierre Richemond, Kai Arulkumaran
+[End-to-End](https://courses.spatialthoughts.com/end-to-end-gee.html#introduction-to-google-earth-engine)
 
+### Aplication
 
-[Machine Learning with Python-From Linear Models to Deep Learning](https://courses.edx.org/courses/course-v1:MITx+6.86x+3T2020/course/)\
-MIT Edx
+[Global Surface Water Animation](https://showcase.earthengine.app/view/jrc-global-surface-water-animation#center=%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-76.81556154179842%2C7.020797314255969%5D%7D;zoom=10;aoi=%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B-75.33419345524091%2C6.373956652872744%5D%2C%5B-75.33419345524091%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.373956652872744%5D%5D%5D%2C%22geodesic%22%3Afalse%2C%22evenOdd%22%3Atrue%7D;render=Fading%20history;fps=10;fade=0.1)
 
-
-[Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)\
-Prof. Michael Nielsen
-
-
-[Applied Time Series Analysis](https://online.stat.psu.edu/stat510/)\
-The Pennsylvania State University
-
-
-[Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)\
-Instructor: Larry Wasserman
-
-### Github
-
-[Machine Learning](https://github.com/rasbt/stat479-machine-learning-fs19)
-Prof. Sebastian Raschka\
-University Wisconsin-Madison
-
-
-[Machine Learning Notebooks](https://github.com/dersteppenwolf/handson-ml)\
-Aurélien Geron - book Hands-on Machine Learning with Scikit-Learn and TensorFlow
-
-
-[TensorFlow for Deep Learning Research](https://github.com/dersteppenwolf/tf-stanford-tutorials)\
-Prof. Chip Huyen\
-Stanford
-
-
-[Tensor TensorFlow](https://github.com/joanby/tensorflow)\
-Juan Gabriel Gomila
-
-
-[Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io)\
-Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong\
-To be published by Cambridge University Press
-
-
-[TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)\
-Prof. Magnus Erik Hvass Pedersen
-
-
-[Time-series-analysis-using-Python](https://github.com/sarincr/Time-series-analysis-using-Python)
-Prof. Sarin CR\
-
-
-[Curso completo de Machine Learning: Data Science en Python](https://github.com/joanby/python-ml-course)\
-Prof. Juan Gabriel Gomila
-
-
-[Python Machine Learning Jupyter Notebooks](https://github.com/tirthajyoti/Machine-Learning-with-Python)\
-Dr. Tirthajyoti Sarkar, Fremont, California
-
-
-[Tensor TensorFlow](https://github.com/lmoroney/dlaicourse)\
-Prof. Laurence Moroney
-
-
-[Learning scikit-learn: Machine Learning in Python](https://github.com/gmonce/scikit-learn-book)\
-Prof. Guillermo Monchecchi
-
-
-[Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)\
-Prof. Andreas Mueller
-
-
-[Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book)\
-Prof. Sebastian Raschka
 
 ## Spatial analysis
 
@@ -164,29 +98,12 @@ http://pysal.org/
 https://pysal.org/notebooks/intro.html
 https://github.com/pysal
 
-[GeoDa> an introduction to spatial data analysis](https://geodacenter.github.io/)
+[GeoDa: an introduction to spatial data analysis](https://geodacenter.github.io/)
 
 
 [Geographic Information Analysis](https://sergerey.org/giasp16/)\
 Prof Sergio Rey\
 Arizona State University
-
-
-[Spatial Data Visualization and Analytics (Full Course Material)](https://courses.spatialthoughts.com/spatial-data-viz.html)
-
-
-[Spatial analysis with Python](https://automating-gis-processes.github.io/site/)
-
-
-[Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html#introduction-to-google-earth-engine)
-
-
-[Spatial Data Programming with Python](https://geobgu.xyz/py/index.html)\
-Michael Dorman\
-Ben-Gurion University of the Negev
-
-
-[Spatial Data Management with Google Earth Engine](https://courses.gisopencourseware.org/course/view.php?id=29)
 
 
 [Geemap](https://geemap.herokuapp.com/voila/render/timelapse.ipynb)
@@ -206,10 +123,6 @@ Prof. Manuel Gimond
 [Spatial Data, Analysis, and Regression - A mini course](http://darribas.org/sdar_mini/index.html)\
 Prof. Dani Arribas-Bel\
 University of Liverpool
-
-
-[Python for GIS and Geoscience](https://jorisvandenbossche.github.io/DS-python-geospatial/)\
-Specialist course Doctoral schools of Ghent University
 
 
 [Spatial Database Management](https://www.e-education.psu.edu/spatialdb/node/1776)\
@@ -237,21 +150,6 @@ Prof Jon Reades\
 Senior Lecturer at King's College London
 
 
-[Introduction to Geospatial Data Analysis with Python](https://github.com/dersteppenwolf/scipy2018-geospatial-data)\
-Prof Levi John Wolf - University of Bristol\
-Sergio Rey - Center for Geospatial Sciences, University of California, Riverside\
-Dani Arribas-Bel - University of Liverpool\
-Joris Van den Bossche - Université Paris-Saclay Center for Data Science\
-
-
-[Python Geospatial Development](https://github.com/PacktPublishing/Python-Geospatial-Development-Third-Edition)\
-Dominic Pereira (Python Geospatial Development)
-
-
-[sing Python to Analyze Spatial Data](https://github.com/dersteppenwolf/pycon)\
-Juan Méndez
-
-
 http://maptimeboston.github.io/web-maps-101/#0
 
 
@@ -272,24 +170,47 @@ http://www.spatialanalysisonline.com/HTML/index.html
 https://courses.spatialthoughts.com/python-foundation.html
 
 
-Intro to Python\
-https://automating-gis-processes.github.io/CSC/course-info/course-info.html
+[Geospatial research methods](http://gsp.humboldt.edu/OLM_2017/courses/GSP_510/00%20Introduction/Overview.html)
 
 
-Geospatial research methods\
-http://gsp.humboldt.edu/OLM_2017/courses/GSP_510/00%20Introduction/Overview.html
+[Advanced GIS](http://gsp.humboldt.edu/OLM_2017/courses/GSP_470/_Schedule.html)
 
 
-Advanced GIS\
-http://gsp.humboldt.edu/OLM_2017/courses/GSP_470/_Schedule.html
+[Geographical Information Systems](https://www.geos.ed.ac.uk/~gisteac/gis_book_abridged/)
 
 
-Geographical Information Systems\
-https://www.geos.ed.ac.uk/~gisteac/gis_book_abridged/
+[Geospatial programming](http://gsp.humboldt.edu/OLM_2017/courses/GSP_318/_Schedule.html)
+
+## Spatial analysis with Python
+
+[Introduction to Geospatial Data Analysis with Python](https://github.com/dersteppenwolf/scipy2018-geospatial-data)\
+Prof Levi John Wolf - University of Bristol\
+Sergio Rey - Center for Geospatial Sciences, University of California, Riverside\
+Dani Arribas-Bel - University of Liverpool\
+Joris Van den Bossche - Université Paris-Saclay Center for Data Science\
 
 
-Geospatial programming\
-http://gsp.humboldt.edu/OLM_2017/courses/GSP_318/_Schedule.html
+[Intro to Python](https://automating-gis-processes.github.io/CSC/course-info/course-info.html)
+
+
+[Spatial analysis with Python](https://automating-gis-processes.github.io/site/)
+
+
+[Spatial Data Programming with Python](https://geobgu.xyz/py/index.html)\
+Michael Dorman\
+Ben-Gurion University of the Negev
+
+
+[Python for GIS and Geoscience](https://jorisvandenbossche.github.io/DS-python-geospatial/)\
+Specialist course Doctoral schools of Ghent University
+
+
+[Python Geospatial Development](https://github.com/PacktPublishing/Python-Geospatial-Development-Third-Edition)\
+Dominic Pereira (Python Geospatial Development)
+
+
+[sing Python to Analyze Spatial Data](https://github.com/dersteppenwolf/pycon)\
+Juan Méndez
 
 ## Spatial analysis with R
 
@@ -378,12 +299,103 @@ A Self-Study Beginner Course in Open Source Geospatial Programming for Data Scie
 
 [Disaster Risk Reduction Knowledge Service](http://drr.ikcest.org/leaf/)
 
+
+## Machine learning
+
+### Courses
+
+[Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)\
+Carlos Fernandez-Granda (Center for Data Science)
+
+
+http://www.i.kyoto-u.ac.jp/mlss15/
+
+
+[Deep Learning](https://sites.google.com/view/mlss-2019/lectures-and-tutorials?authuser=0)\
+Kevin Webster, Pierre Richemond, Kai Arulkumaran
+
+
+[Machine Learning with Python-From Linear Models to Deep Learning](https://courses.edx.org/courses/course-v1:MITx+6.86x+3T2020/course/)\
+MIT Edx
+
+
+[Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)\
+Prof. Michael Nielsen
+
+
+[Applied Time Series Analysis](https://online.stat.psu.edu/stat510/)\
+The Pennsylvania State University
+
+
+[Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)\
+Instructor: Larry Wasserman
+
+### Github
+
+[Machine Learning](https://github.com/rasbt/stat479-machine-learning-fs19)
+Prof. Sebastian Raschka\
+University Wisconsin-Madison
+
+
+[Machine Learning Notebooks](https://github.com/dersteppenwolf/handson-ml)\
+Aurélien Geron - book Hands-on Machine Learning with Scikit-Learn and TensorFlow
+
+
+[TensorFlow for Deep Learning Research](https://github.com/dersteppenwolf/tf-stanford-tutorials)\
+Prof. Chip Huyen\
+Stanford
+
+
+[Tensor TensorFlow](https://github.com/joanby/tensorflow)\
+Juan Gabriel Gomila
+
+
+[Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io)\
+Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong\
+To be published by Cambridge University Press
+
+
+[TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)\
+Prof. Magnus Erik Hvass Pedersen
+
+
+[Time-series-analysis-using-Python](https://github.com/sarincr/Time-series-analysis-using-Python)
+Prof. Sarin CR\
+
+
+[Curso completo de Machine Learning: Data Science en Python](https://github.com/joanby/python-ml-course)\
+Prof. Juan Gabriel Gomila
+
+
+[Python Machine Learning Jupyter Notebooks](https://github.com/tirthajyoti/Machine-Learning-with-Python)\
+Dr. Tirthajyoti Sarkar, Fremont, California
+
+
+[Tensor TensorFlow](https://github.com/lmoroney/dlaicourse)\
+Prof. Laurence Moroney
+
+
+[Learning scikit-learn: Machine Learning in Python](https://github.com/gmonce/scikit-learn-book)\
+Prof. Guillermo Monchecchi
+
+
+[Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)\
+Prof. Andreas Mueller
+
+
+[Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book)\
+Prof. Sebastian Raschka
+
 ## Data visualization
 
 ### Webpages
 
 [Data Visualization, A practical introduction](https://socviz.co/index.html#preface)\
 Kieran Healy, Duke University
+
+
+[Spatial Data Visualization and Analytics (Full Course Material)](https://courses.spatialthoughts.com/spatial-data-viz.html)
+
 
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)\
 Claus O. Wilke
