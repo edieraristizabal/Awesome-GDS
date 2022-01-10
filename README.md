@@ -5,6 +5,7 @@
 - [Geology](#geology)
 - [Geomorphology](#geomorphology)
 - [Remote sensing](#remote-sensing)
+- [Machine learning](#machine-learning)
 - [Spatial analysis](#spatial-analysis)
 
 ## Geology
@@ -34,6 +35,19 @@
 ## Remote sensing
 
 ### Courses
+[Spatial Data Visualization and Analytics (Full Course Material)](https://courses.spatialthoughts.com/spatial-data-viz.html)
+
+### Youtube
+
+### Papers
+
+### Github
+
+### Websites
+
+## Machine learning
+
+### Courses
 
 ### Youtube
 
@@ -53,8 +67,53 @@
 
 ### Github
 
+## Web mapping
+
+### Courses
+
+### Youtube
+
+### Papers
+
+### Github
+
 ### Websites
 
+[Web Mapping Notes](http://darribas.org/wmn/)
+Prof. Dani Arribas-Bel/
+University of Liverpool/
+
+
+[Web Mapping](https://github.com/jakobzhao/geog371)/                                          
+Prof. Bo Zhao/
+Oregon State University/
+Muy bueno, con teoria y explicaciones, el mismo curso de Jua Carlos Mendez
+
+
+[Web Mapping](https://github.com/uwcartlab/webmapping)
+Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood/
+University of Wisconsin Cartography Laboratory/
+
+
+The GeoStack Project
+A Self-Study Beginner Course in Open Source Geospatial Programming for Data Scientists
+https://the-geostack-project.github.io/
+
+Introduction to Web Mapping
+Michael Dorman
+https://geobgu.xyz/web-mapping2/
+
+web-map-workshop
+Prof. Mike Foster
+https://github.com/guilhermeiablo/web-map-workshop
+
+A Leaflet map with Node.js and MongoDB
+John McCrae (Cambridge UK)
+http://deneli.us/a-leaflet-map-with-node-js-and-mongodb/
+
+Open Web Mapping
+Prof. Jim Detwiler (The Pennsylvania State University)
+https://www.e-education.psu.edu/geog585/node/508
 
 
 
@@ -164,38 +223,7 @@ Spatial Data, Analysis, and Regression - A mini course
 Prof. Dani Arribas-Bel (University of Liverpool)
 http://darribas.org/sdar_mini/index.html
 
-Web Mapping Notes
-Prof. Dani Arribas-Bel (University of Liverpool)
-http://darribas.org/wmn/
 
-Web Mapping                                             ---> muy bueno, con teoria y explicaciones, el mismo curso de Jua Carlos Mendez
-Prof. Bo Zhao (Oregon State University)
-https://github.com/jakobzhao/geog371
-
-Web Mapping
-Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood
-University of Wisconsin Cartography Laboratory
-https://github.com/uwcartlab/webmapping
-
-The GeoStack Project
-A Self-Study Beginner Course in Open Source Geospatial Programming for Data Scientists
-https://the-geostack-project.github.io/
-
-Introduction to Web Mapping
-Michael Dorman
-https://geobgu.xyz/web-mapping2/
-
-web-map-workshop
-Prof. Mike Foster
-https://github.com/guilhermeiablo/web-map-workshop
-
-A Leaflet map with Node.js and MongoDB
-John McCrae (Cambridge UK)
-http://deneli.us/a-leaflet-map-with-node-js-and-mongodb/
-
-Open Web Mapping
-Prof. Jim Detwiler (The Pennsylvania State University)
-https://www.e-education.psu.edu/geog585/node/508
 
 Geocomputation and Spatial Analysis
 Prof Jon Reades (Senior Lecturer at King's College London)
