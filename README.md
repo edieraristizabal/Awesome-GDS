@@ -79,20 +79,20 @@
 
 ### Websites
 
-[Web Mapping Notes](http://darribas.org/wmn/)
-Prof. Dani Arribas-Bel/
-University of Liverpool/
+[Web Mapping Notes](http://darribas.org/wmn/)\
+Prof. Dani Arribas-Bel\
+University of Liverpool\
 
 
-[Web Mapping](https://github.com/jakobzhao/geog371)/                                          
-Prof. Bo Zhao/
-Oregon State University/
-Muy bueno, con teoria y explicaciones, el mismo curso de Jua Carlos Mendez
+[Web Mapping](https://github.com/jakobzhao/geog371)\                                          
+Prof. Bo Zhao\
+Oregon State University\
+Muy bueno, con teoria y explicaciones, el mismo curso de Jua Carlos Mendez\
 
 
-[Web Mapping](https://github.com/uwcartlab/webmapping)
-Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood/
-University of Wisconsin Cartography Laboratory/
+[Web Mapping](https://github.com/uwcartlab/webmapping)\
+Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood\
+University of Wisconsin Cartography Laboratory\
 
 
 The GeoStack Project
