@@ -1,4 +1,62 @@
-#Awesome Geohazard Data Science
+# Awesome Geohazard Data Science
+
+## Table of contents
+
+- [Geology](#geology)
+- [Geomorphology](#geomorphology)
+- [Remote sensing](#remote-sensing)
+- [Spatial analysis](#spatial-analysis)
+
+## Geology
+
+### Courses
+
+### Youtube
+
+### Papers
+
+### Github
+
+### Websites
+
+## Geomorphology
+
+### Courses
+
+### Youtube
+
+### Papers
+
+### Github
+
+### Websites
+
+## Remote sensing
+
+### Courses
+
+### Youtube
+
+### Papers
+
+### Github
+
+### Websites
+
+## Spatial analysis
+
+### Courses
+
+### Youtube
+
+### Papers
+
+### Github
+
+### Websites
+
+
+
 
 Working with Spatio-temporal data in Python
 https://annefou.github.io/metos_python/
