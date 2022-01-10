@@ -2,37 +2,11 @@
 
 ## Table of contents
 
-- [Geology](#geology)
-- [Geomorphology](#geomorphology)
 - [Remote sensing](#remote-sensing)
 - [Machine learning](#machine-learning)
 - [Spatial analysis](#spatial-analysis)
 - [Spatial analysisi with R](#spatial-analysis-with-r)
 - [Data visualization](#data-visualization)
-
-## Geology
-
-### Courses
-
-### Youtube
-
-### Papers
-
-### Github
-
-### Websites
-
-## Geomorphology
-
-### Courses
-
-### Youtube
-
-### Papers
-
-### Github
-
-### Websites
 
 ## Remote sensing
 
@@ -51,6 +25,13 @@ University of Alaska
 
 [4th Advanced Training Course in Land Remote Sensing Programme](https://earth.esa.int/eogateway/events/4th-advanced-training-course-in-land-remote-sensing/programme)
 
+
+### Youtube
+
+### Papers
+
+### Github
+
 [Programming for Remote Sensing and GIS](https://github.com/gbrunner/Python_for_GIS_and_RS)\
 Prof. Gregory Bruner
 
@@ -58,11 +39,7 @@ Prof. Gregory Bruner
 [Open source tutorials on remote sensing data analysis](https://github.com/beeoda/tutorials)\
 Prof. Eric Bullock
 
-### Youtube
-
-### Papers
-
-### Github
+https://github.com/geohackweek
 
 ### Websites
 [GISLOUNGE](https://www.gislounge.com/author/gis-contributor/)
@@ -82,22 +59,7 @@ https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-n
 https://opensourceoptions.com/?s=qgis
 
 
-https://github.com/geohackweek
-
-
 https://showcase.earthengine.app/view/jrc-global-surface-water-animation#center=%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-76.81556154179842%2C7.020797314255969%5D%7D;zoom=10;aoi=%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B-75.33419345524091%2C6.373956652872744%5D%2C%5B-75.33419345524091%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.373956652872744%5D%5D%5D%2C%22geodesic%22%3Afalse%2C%22evenOdd%22%3Atrue%7D;render=Fading%20history;fps=10;fade=0.1;
-
-## Machine learning
-
-### Courses
-
-### Youtube
-
-### Papers
-
-### Github
-
-### Websites
 
 ## Spatial analysis
 
@@ -105,11 +67,6 @@ https://showcase.earthengine.app/view/jrc-global-surface-water-animation#center=
 
 [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)\
 Sergio J. Rey, Dani Arribas-Bel, Levi J. Wolf
-
-
-[spatial-analysis](https://github.com/kingsgeocomp/spatial-analysis)
-Prof Jon Reades\
-Senior Lecturer at King's College London
 
 
 [Geographic Data Science](https://darribas.org/gds_course/content/home.html)\
@@ -177,16 +134,8 @@ Prof. Dani Arribas-Bel\
 University of Liverpool
 
 
-[Geocomputation and Spatial Analysis](https://github.com/kingsgeocomp/geocomputation)\
-Prof Jon Reades\
-Senior Lecturer at King's College London
-
 [Python for GIS and Geoscience](https://jorisvandenbossche.github.io/DS-python-geospatial/)\
 Specialist course Doctoral schools of Ghent University
-
-
-[sing Python to Analyze Spatial Data](https://github.com/dersteppenwolf/pycon)\
-Juan Méndez
 
 
 [Spatial Database Management](https://www.e-education.psu.edu/spatialdb/node/1776)\
@@ -195,10 +144,6 @@ Prof. Jim Detwiler (The Pennsylvania State University)
 
 [Geoprocessing with Jupyter Notebooks](https://github.com/dersteppenwolf/foss4guk19-jupyter)\
 Prof. Sam Franklin
-
-
-[Python Geospatial Development](https://github.com/PacktPublishing/Python-Geospatial-Development-Third-Edition)\
-Dominic Pereira (Python Geospatial Development)
 
 
 [Streamlit for geospatial application](https://streamlit.gishub.org/)
@@ -212,12 +157,33 @@ Dominic Pereira (Python Geospatial Development)
 
 ### Github
 
+[spatial-analysis](https://github.com/kingsgeocomp/spatial-analysis)\
+Prof Jon Reades\
+Senior Lecturer at King's College London
+
+
+[Geocomputation and Spatial Analysis](https://github.com/kingsgeocomp/geocomputation)\
+Prof Jon Reades\
+Senior Lecturer at King's College London
+
+
+[Python Geospatial Development](https://github.com/PacktPublishing/Python-Geospatial-Development-Third-Edition)\
+Dominic Pereira (Python Geospatial Development)
+
+
+[sing Python to Analyze Spatial Data](https://github.com/dersteppenwolf/pycon)\
+Juan Méndez
+
+
 http://maptimeboston.github.io/web-maps-101/#0
 
-[Open Source Geoprocessing Tutorial](https://github.com/ceholden/open-geo-tutorial)
+
+[Open Source Geoprocessing Tutorial](https://github.com/ceholden/open-geo-tutorial)\
 Prof. Chris Holden
 
+
 https://github.com/shakasom
+
 
 https://github.com/acgeospatial
 
@@ -282,31 +248,8 @@ Prof. Dani Arribas-Bel\
 University of Liverpool
 
 
-[Web Mapping](https://github.com/jakobzhao/geog371)\
-Prof. Bo Zhao\
-Oregon State University\
-Muy bueno, con teoria y explicaciones, similar al curso del Prof. Juan Carlos Mendez
-
-
-[Cartografia web](https://github.com/dersteppenwolf/cartografia_web)\
-Prof. Juan Carlos Mendez\
-Universidad Militar Nueva Granada
-
-
-[Web Mapping](https://github.com/uwcartlab/webmapping)\
-Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood\
-University of Wisconsin Cartography Laboratory
-
 [Introduction to Web Mapping](https://geobgu.xyz/web-mapping2/)\
 Michael Dorman
-
-[Web Mapping](https://github.com/uwcartlab/webmapping) (A Workbook for Interactive Cartography and Visualization on the Open Web)\
-Roth RE, CM Sack, G Baldrica-Franklin, Y Chen, R Donohue, R Tolochko, and N Underwood. 2020.\
-Version 0.1. University of Wisconsin Cartography Laboratory: Madison, WI. DOI: 10.5281/zenodo.4009327
-
-
-[web-map-workshop](https://github.com/guilhermeiablo/web-map-workshop)\
-Prof. Mike Foster
 
 
 [A Leaflet map with Node.js and MongoDB](http://deneli.us/a-leaflet-map-with-node-js-and-mongodb/)
@@ -323,6 +266,30 @@ The Pennsylvania State University
 ### Papers
 
 ### Github
+
+[Web Mapping](https://github.com/uwcartlab/webmapping) (A Workbook for Interactive Cartography and Visualization on the Open Web)\
+Roth RE, CM Sack, G Baldrica-Franklin, Y Chen, R Donohue, R Tolochko, and N Underwood. 2020.\
+Version 0.1. University of Wisconsin Cartography Laboratory: Madison, WI. DOI: 10.5281/zenodo.4009327
+
+
+[Cartografia web](https://github.com/dersteppenwolf/cartografia_web)\
+Prof. Juan Carlos Mendez\
+Universidad Militar Nueva Granada
+
+
+[Web Mapping](https://github.com/uwcartlab/webmapping)\
+Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood\
+University of Wisconsin Cartography Laboratory
+
+
+[Web Mapping](https://github.com/jakobzhao/geog371)\
+Prof. Bo Zhao\
+Oregon State University\
+Muy bueno, con teoria y explicaciones, similar al curso del Prof. Juan Carlos Mendez
+
+
+[web-map-workshop](https://github.com/guilhermeiablo/web-map-workshop)\
+Prof. Mike Foster
 
 ### Websites
 
