@@ -167,13 +167,6 @@ https://github.com/pysal
 [GeoDa> an introduction to spatial data analysis](https://geodacenter.github.io/)
 
 
-[Introduction to Geospatial Data Analysis with Python](https://github.com/dersteppenwolf/scipy2018-geospatial-data)\
-Prof Levi John Wolf - University of Bristol\
-Sergio Rey - Center for Geospatial Sciences, University of California, Riverside\
-Dani Arribas-Bel - University of Liverpool\
-Joris Van den Bossche - Université Paris-Saclay Center for Data Science\
-
-
 [Geographic Information Analysis](https://sergerey.org/giasp16/)\
 Prof Sergio Rey\
 Arizona State University
@@ -242,6 +235,13 @@ Senior Lecturer at King's College London
 [Geocomputation and Spatial Analysis](https://github.com/kingsgeocomp/geocomputation)\
 Prof Jon Reades\
 Senior Lecturer at King's College London
+
+
+[Introduction to Geospatial Data Analysis with Python](https://github.com/dersteppenwolf/scipy2018-geospatial-data)\
+Prof Levi John Wolf - University of Bristol\
+Sergio Rey - Center for Geospatial Sciences, University of California, Riverside\
+Dani Arribas-Bel - University of Liverpool\
+Joris Van den Bossche - Université Paris-Saclay Center for Data Science\
 
 
 [Python Geospatial Development](https://github.com/PacktPublishing/Python-Geospatial-Development-Third-Edition)\
