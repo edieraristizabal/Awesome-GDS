@@ -9,6 +9,7 @@
 - [Spatial analysisi with R](#spatial-analysis-with-r)
 - [Spatial analysisi with Python](#spatial-analysis-with-python)
 - [Data visualization](#data-visualization)
+- [Other awesome awesomes](#more-awesomes)
 
 ## Remote sensing
 
@@ -399,4 +400,8 @@ Kieran Healy, Duke University
 
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)\
 Claus O. Wilke
+
+## More awesomes...
+
+[Quiusheng Wu](https://github.com/giswqs/Awesome-GEE/blob/gh-pages/readme.md)
 
