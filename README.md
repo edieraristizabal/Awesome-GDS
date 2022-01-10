@@ -56,6 +56,91 @@ https://opensourceoptions.com/?s=qgis
 
 Google Earth Aplication [example](https://showcase.earthengine.app/view/jrc-global-surface-water-animation#center=%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-76.81556154179842%2C7.020797314255969%5D%7D;zoom=10;aoi=%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B-75.33419345524091%2C6.373956652872744%5D%2C%5B-75.33419345524091%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.373956652872744%5D%5D%5D%2C%22geodesic%22%3Afalse%2C%22evenOdd%22%3Atrue%7D;render=Fading%20history;fps=10;fade=0.1)
 
+## Machine learning
+
+### Courses
+
+[Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)\
+Carlos Fernandez-Granda (Center for Data Science)
+
+
+http://www.i.kyoto-u.ac.jp/mlss15/
+
+
+[Deep Learning](https://sites.google.com/view/mlss-2019/lectures-and-tutorials?authuser=0)\
+Kevin Webster, Pierre Richemond, Kai Arulkumaran
+
+
+[Machine Learning with Python-From Linear Models to Deep Learning](https://courses.edx.org/courses/course-v1:MITx+6.86x+3T2020/course/)\
+MIT Edx
+
+
+[Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)\
+Prof. Michael Nielsen
+
+
+[Machine Learning](https://github.com/rasbt/stat479-machine-learning-fs19)
+Prof. Sebastian Raschka\
+University Wisconsin-Madison
+
+
+[Machine Learning Notebooks](https://github.com/dersteppenwolf/handson-ml)\
+Aurélien Geron - book Hands-on Machine Learning with Scikit-Learn and TensorFlow
+
+
+[Applied Time Series Analysis](https://online.stat.psu.edu/stat510/)\
+The Pennsylvania State University
+
+
+[TensorFlow for Deep Learning Research](https://github.com/dersteppenwolf/tf-stanford-tutorials)\
+Prof. Chip Huyen\
+Stanford
+
+
+[Tensor TensorFlow](https://github.com/joanby/tensorflow)\
+Juan Gabriel Gomila
+
+
+[Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io)\
+Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong\
+To be published by Cambridge University Press
+
+
+[TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)\
+Prof. Magnus Erik Hvass Pedersen
+
+
+[Time-series-analysis-using-Python](https://github.com/sarincr/Time-series-analysis-using-Python)
+Prof. Sarin CR\
+
+
+[Curso completo de Machine Learning: Data Science en Python](https://github.com/joanby/python-ml-course)\
+Prof. Juan Gabriel Gomila
+
+
+[Python Machine Learning Jupyter Notebooks](https://github.com/tirthajyoti/Machine-Learning-with-Python)\
+Dr. Tirthajyoti Sarkar, Fremont, California
+
+
+[Tensor TensorFlow](https://github.com/lmoroney/dlaicourse)\
+Prof. Laurence Moroney
+
+
+[Learning scikit-learn: Machine Learning in Python](https://github.com/gmonce/scikit-learn-book)\
+Prof. Guillermo Monchecchi
+
+
+[Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)\
+Prof. Andreas Mueller
+
+
+[Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book)\
+Prof. Sebastian Raschka
+
+
+[Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)\
+Instructor: Larry Wasserman
+
 ## Spatial analysis
 
 ### Courses
@@ -299,6 +384,6 @@ A Self-Study Beginner Course in Open Source Geospatial Programming for Data Scie
 [Data Visualization, A practical introduction](https://socviz.co/index.html#preface)\
 Kieran Healy, Duke University
 
-[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)\
 Claus O. Wilke
 
