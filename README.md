@@ -63,16 +63,21 @@ https://opensourceoptions.com/?s=qgis
 
 ### Website
 
-[Earth Engine Apps](https://www.earthengine.app/)\
-Get started
+Get started [Earth Engine Apps](https://www.earthengine.app/)\
+
+
+[Google Earth Engine developers](https://developers.google.com/earth-engine)
 
 
 [Spatial Data Management with Google Earth Engine](https://courses.gisopencourseware.org/course/view.php?id=29)
 
 
-[End-to-End](https://courses.spatialthoughts.com/end-to-end-gee.html#introduction-to-google-earth-engine)
+[Google Earth Engine End-to-End](https://courses.spatialthoughts.com/end-to-end-gee.html#introduction-to-google-earth-engine)
 
 ### Aplication
+
+[Google Earth Engines Apps](https://github.com/edieraristizabal/awesome-earth-engine-apps)
+
 
 [Global Surface Water Animation](https://showcase.earthengine.app/view/jrc-global-surface-water-animation#center=%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-76.81556154179842%2C7.020797314255969%5D%7D;zoom=10;aoi=%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B-75.33419345524091%2C6.373956652872744%5D%2C%5B-75.33419345524091%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.373956652872744%5D%5D%5D%2C%22geodesic%22%3Afalse%2C%22evenOdd%22%3Atrue%7D;render=Fading%20history;fps=10;fade=0.1)
 
@@ -93,6 +98,9 @@ University of Liverpool\
 [Geographic Data Science for Applied Economists](http://darribas.org/gds4ae/content/pages/home.html)\
 Prof. Dani Arribas-Bel (University of Liverpool) & Prof. Diego Puga
 
+
+[Intro to GIS and spatial analysis](https://mgimond.github.io/Spatial/index.html)  
+Manuel Gimond
 
 PySAL
 http://pysal.org/
@@ -138,6 +146,23 @@ Prof. Sam Franklin
 
 
 [GEARS - Geospatial Ecology and Remote Sensing using GEE](https://www.gears-lab.com/)
+
+[Spatial data science for sustainable development](https://sustainability-gis.readthedocs.io/en/latest/)  
+Henrikki Tenkanen  
+Dept. of Built Environment  
+Aalto University.
+
+[Spatial Modelling for Data Scientists](https://gdsl-ul.github.io/san/)  
+Francisco Rowe and Dani Arribas-Bel
+University of Liverpool
+
+[CASA](https://andrewmaclachlan.github.io/CASA0005repo/analysing-spatial-patterns.html)
+University College London
+Centre for Advanced Spatial Analysis
+
+
+(Intro to GIS and Spatial Analysis)[https://mgimond.github.io/Spatial/]  
+Manuel Gimond
 
 ### Github
 
@@ -256,7 +281,7 @@ John McCrae\
 Cambridge
 
 
-[Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
+[Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)  
 Prof. Jim Detwiler\
 The Pennsylvania State University
 
@@ -264,7 +289,13 @@ The Pennsylvania State University
 
 [Web Mapping](https://github.com/uwcartlab/webmapping) (A Workbook for Interactive Cartography and Visualization on the Open Web)\
 Roth RE, CM Sack, G Baldrica-Franklin, Y Chen, R Donohue, R Tolochko, and N Underwood. 2020.\
-Version 0.1. University of Wisconsin Cartography Laboratory: Madison, WI. DOI: 10.5281/zenodo.4009327
+Version 0.1. University of Wisconsin Cartography Laboratory: Madison, WI. DOI: 10.5281/zenodo.4009327\
+Curso de Leaflet & D3 a profundidad
+
+[Introduction to web mapping](https://web-mapping.surge.sh/)
+Michael Droman
+Beg-Gurion University of the Negev
+
 
 
 [Cartografia web](https://github.com/dersteppenwolf/cartografia_web)\
@@ -286,6 +317,10 @@ Muy bueno, con teoria y explicaciones, similar al curso del Prof. Juan Carlos Me
 [web-map-workshop](https://github.com/guilhermeiablo/web-map-workshop)\
 Prof. Mike Foster
 
+[Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
+Prof. Panagiotis Giannakis  
+PennState, College of Earth and Mineral Science
+
 ### Websites
 
 [The GeoStack Project](https://the-geostack-project.github.io/)\
@@ -300,6 +335,9 @@ A Self-Study Beginner Course in Open Source Geospatial Programming for Data Scie
 
 [Disaster Risk Reduction Knowledge Service](http://drr.ikcest.org/leaf/)
 
+[Maptimeboston-Web mapping](http://maptimeboston.github.io/web-maps-101/#0)
+
+[Maptimeboston-Leaflet](http://maptimeboston.github.io/leaflet-intro/)
 
 ## Machine learning
 
@@ -401,7 +439,12 @@ Kieran Healy, Duke University
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)\
 Claus O. Wilke
 
+[The D3.js Graph Gallery](https://www.d3-graph-gallery.com/index.html)
+Yan Holtz
+
 ## More awesomes...
 
 [Quiusheng Wu](https://github.com/giswqs/Awesome-GEE/blob/gh-pages/readme.md)
+
+[Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial)
 
