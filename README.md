@@ -6,8 +6,9 @@
 - [Google Earth Engine](#google-earth-engine)
 - [Machine learning](#machine-learning)
 - [Spatial analysis](#spatial-analysis)
-- [Spatial analysisi with R](#spatial-analysis-with-r)
-- [Spatial analysisi with Python](#spatial-analysis-with-python)
+- [Spatial analysis with R](#spatial-analysis-with-r)
+- [Spatial analysis with Python](#spatial-analysis-with-python)
+- [Web mapping](#web-mapping)
 - [Data visualization](#data-visualization)
 - [Other awesome awesomes](#more-awesomes)
 
@@ -21,6 +22,8 @@ University of Alaska
 
 
 [ARSET - Introduction to Synthetic Aperture Radar (NASA)](https://appliedsciences.nasa.gov/join-mission/training/english/arset-introduction-synthetic-aperture-radar)
+
+[A tutorial on synthetic aperture radar](https://elib.dlr.de/82313/1/SAR-Tutorial-March-2013.pdf)
 
 
 [2nd Advanced Course on Radar Polarimetry 2013 Programme](https://earth.esa.int/eogateway/events/2nd-advanced-course-on-radar-polarimetry-2013/programme)
@@ -65,14 +68,17 @@ https://opensourceoptions.com/?s=qgis
 
 Get started [Earth Engine Apps](https://www.earthengine.app/)\
 
-
 [Google Earth Engine developers](https://developers.google.com/earth-engine)
 
+[Earth Engine Explorer](https://www.google.com/earth/outreach/learn/introduction-to-google-earth-engine/#gamma-4-14)
+Google Earth Outreach  
 
 [Spatial Data Management with Google Earth Engine](https://courses.gisopencourseware.org/course/view.php?id=29)
 
 
 [Google Earth Engine End-to-End](https://courses.spatialthoughts.com/end-to-end-gee.html#introduction-to-google-earth-engine)
+
+[Publishing an Earth Engine App](https://earthoutreachonair.withgoogle.com/events/g4g-earthengine5)
 
 ### Aplication
 
@@ -81,6 +87,13 @@ Get started [Earth Engine Apps](https://www.earthengine.app/)\
 
 [Global Surface Water Animation](https://showcase.earthengine.app/view/jrc-global-surface-water-animation#center=%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-76.81556154179842%2C7.020797314255969%5D%7D;zoom=10;aoi=%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B-75.33419345524091%2C6.373956652872744%5D%2C%5B-75.33419345524091%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.373956652872744%5D%5D%5D%2C%22geodesic%22%3Afalse%2C%22evenOdd%22%3Atrue%7D;render=Fading%20history;fps=10;fade=0.1)
 
+[HazMapper](https://cmscheip.users.earthengine.app/view/hazmapper)
+
+[Sentinel-Landsat Visualizer](https://sanchezpauspro.users.earthengine.app/view/simple-sentinellandsat-visualizer)
+
+[Time Series Animation](https://waeldimassi.users.earthengine.app/view/timeseries-animation)
+
+[Rainfall Data Exploration](https://juantorres-batllo.users.earthengine.app/view/rainfall-explorer-50)
 
 ## Spatial analysis
 
@@ -425,6 +438,10 @@ Prof. Andreas Mueller
 [Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book)\
 Prof. Sebastian Raschka
 
+### Webinars
+
+[Wolfram U](https://www.bigmarker.com/series/data-science-friday-webinars/series_details)
+
 ## Data visualization
 
 ### Webpages
@@ -441,6 +458,10 @@ Claus O. Wilke
 
 [The D3.js Graph Gallery](https://www.d3-graph-gallery.com/index.html)
 Yan Holtz
+
+[VizHub](https://vizhub.com/)
+
+[Observable - D3 gallery](https://observablehq.com/@d3/gallery)
 
 ## More awesomes...
 
