@@ -463,6 +463,8 @@ Yan Holtz
 
 [Observable - D3 gallery](https://observablehq.com/@d3/gallery)
 
+[Latex Drawing](https://github.com/xinychen/awesome-latex-drawing)
+
 ## More awesomes...
 
 [Quiusheng Wu](https://github.com/giswqs/Awesome-GEE/blob/gh-pages/readme.md)
