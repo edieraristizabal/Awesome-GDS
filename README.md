@@ -6,8 +6,6 @@
 - [Google Earth Engine](#google-earth-engine)
 - [Machine learning](#machine-learning)
 - [Spatial analysis](#spatial-analysis)
-- [Spatial analysis with R](#spatial-analysis-with-r)
-- [Spatial analysis with Python](#spatial-analysis-with-python)
 - [Web mapping](#web-mapping)
 - [Data visualization](#data-visualization)
 - [Other awesome awesomes](#more-awesomes)
@@ -220,7 +218,7 @@ https://courses.spatialthoughts.com/python-foundation.html
 
 [Geospatial programming](http://gsp.humboldt.edu/OLM_2017/courses/GSP_318/_Schedule.html)
 
-## Spatial analysis with Python
+### Spatial analysis wit python
 
 [Introduction to Geospatial Data Analysis with Python](https://github.com/dersteppenwolf/scipy2018-geospatial-data)\
 Prof Levi John Wolf - University of Bristol\
@@ -251,9 +249,7 @@ Dominic Pereira (Python Geospatial Development)
 [sing Python to Analyze Spatial Data](https://github.com/dersteppenwolf/pycon)\
 Juan Méndez
 
-## Spatial analysis with R
-
-### Websites
+### Spatial analysis with R
 
 [Introduction to R](https://rspatial.org/intr/index.html)
 
@@ -441,6 +437,10 @@ Prof. Sebastian Raschka
 ### Webinars
 
 [Wolfram U](https://www.bigmarker.com/series/data-science-friday-webinars/series_details)
+
+### Time-series
+
+[Using Keras](https://keras.io/examples/timeseries/timeseries_classification_from_scratch/)
 
 ## Data visualization
 
