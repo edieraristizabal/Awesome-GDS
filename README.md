@@ -1,4 +1,4 @@
-# Awesome Geohazard Data Science
+# Awesome Geospatial Data Science
 
 ## Table of contents
 
