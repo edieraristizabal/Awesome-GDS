@@ -354,7 +354,7 @@ A Self-Study Beginner Course in Open Source Geospatial Programming for Data Scie
 Prof. Pat Virtue
 
 [Linear Algebra review](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)  
-Prof. Pat Virtue
+Prof. J. Zico Kolter
 
 
 [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)\
