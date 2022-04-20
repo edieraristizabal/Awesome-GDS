@@ -352,8 +352,8 @@ A Self-Study Beginner Course in Open Source Geospatial Programming for Data Scie
 
 ### Courses
 
-[Practical Data Science](http://www.datasciencecourse.org/)
-[videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22618ea253-ca45-4b14-9f1d-aab501543bd2%22&view=2)
+[Practical Data Science](http://www.datasciencecourse.org/)  
+[videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22618ea253-ca45-4b14-9f1d-aab501543bd2%22&view=2)  
 Prof. Pat Virtue
 
 
