@@ -48,7 +48,7 @@ https://github.com/geohackweek
 [Spatial Statistics Resources](https://spatialstats-analysis-1.hub.arcgis.com/)
 
 
-[QGIS Tutorials and Tips](https://www.qgistutorials.com/en/index.html)
+[QGIS Tutorials and Tips](https://www.qgistutorials.com/en/index.html)  
 Ujaval Gandhi
 
 
@@ -265,12 +265,12 @@ Edzer Pebesma, Roger Bivand
 [Spatial Data Science with R](https://rspatial.org/raster/index.html)
 
 
-[Using Spatial Data with R](https://cengel.github.io/R-spatial/)
+[Using Spatial Data with R](https://cengel.github.io/R-spatial/)  
 Claudia A Engel
 
 
-[Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
-Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton
+[Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)  
+Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton  
 [Libro](https://beanumber.github.io/sds192/schedule.html#Working_with_geospatial_data)
 
 ## Web mapping
@@ -385,7 +385,7 @@ Instructor: Larry Wasserman
 
 ### Github
 
-[Machine Learning](https://github.com/rasbt/stat479-machine-learning-fs19)
+[Machine Learning](https://github.com/rasbt/stat479-machine-learning-fs19)  
 Prof. Sebastian Raschka\
 University Wisconsin-Madison
 
@@ -461,7 +461,7 @@ Kieran Healy, Duke University
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)\
 Claus O. Wilke
 
-[The D3.js Graph Gallery](https://www.d3-graph-gallery.com/index.html)
+[The D3.js Graph Gallery](https://www.d3-graph-gallery.com/index.html)  
 Yan Holtz
 
 [VizHub](https://vizhub.com/)
