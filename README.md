@@ -299,12 +299,11 @@ The Pennsylvania State University
 [Web Mapping](https://github.com/uwcartlab/webmapping) (A Workbook for Interactive Cartography and Visualization on the Open Web)\
 Roth RE, CM Sack, G Baldrica-Franklin, Y Chen, R Donohue, R Tolochko, and N Underwood. 2020.\
 Version 0.1. University of Wisconsin Cartography Laboratory: Madison, WI. DOI: 10.5281/zenodo.4009327\
-Curso de Leaflet & D3 a profundidad
+
 
 [Introduction to web mapping](https://web-mapping.surge.sh/)
 Michael Droman
 Beg-Gurion University of the Negev
-
 
 
 [Cartografia web](https://github.com/dersteppenwolf/cartografia_web)\
@@ -320,13 +319,11 @@ University of Wisconsin Cartography Laboratory
 [Web Mapping](https://github.com/jakobzhao/geog371)\
 Prof. Bo Zhao\
 Oregon State University\
-Muy bueno, con teoria y explicaciones, similar al curso del Prof. Juan Carlos Mendez
-
 
 [web-map-workshop](https://github.com/guilhermeiablo/web-map-workshop)\
 Prof. Mike Foster
 
-[Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
+[Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)  
 Prof. Panagiotis Giannakis  
 PennState, College of Earth and Mineral Science
 
