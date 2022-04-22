@@ -383,6 +383,10 @@ The Pennsylvania State University
 [Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)\
 Instructor: Larry Wasserman
 
+### Books
+[Data Science concepts and practice](https://asolanki.co.in/wp-content/uploads/2019/04/Data-Science-Concepts-and-Practice-2nd-Edition-3.pdf)  
+Vijay Kotu & Bala Deshpande
+
 ### Github
 
 [Machine Learning](https://github.com/rasbt/stat479-machine-learning-fs19)  
