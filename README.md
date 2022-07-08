@@ -256,6 +256,9 @@ Juan Méndez
 [Predictive Soil Mapping with R](https://soilmapper.org/)\
 Hengl, T., MacMillan, R.A., (2019). Predictive Soil Mapping with R. OpenGeoHub foundation, Wageningen, the Netherlands, 370 pages, www.soilmapper.org, ISBN: 978-0-359-30635-0.
 
+[Spatial sampling with R](https://dickbrus.github.io/SpatialSamplingwithR/)\
+Dick J. Brus
+
 
 [Crime mapping in R](https://maczokni.github.io/crime_mapping_textbook/)\
 Reka Solymosi and Juanjo Medina
