@@ -253,6 +253,9 @@ Juan Méndez
 
 [Introduction to R](https://rspatial.org/intr/index.html)
 
+[Predictive Soil Mapping with R](https://soilmapper.org/)\
+Hengl, T., MacMillan, R.A., (2019). Predictive Soil Mapping with R. OpenGeoHub foundation, Wageningen, the Netherlands, 370 pages, www.soilmapper.org, ISBN: 978-0-359-30635-0.
+
 
 [Crime mapping in R](https://maczokni.github.io/crime_mapping_textbook/)\
 Reka Solymosi and Juanjo Medina
@@ -384,8 +387,17 @@ The Pennsylvania State University
 Instructor: Larry Wasserman
 
 ### Books
-[Data Science concepts and practice](https://asolanki.co.in/wp-content/uploads/2019/04/Data-Science-Concepts-and-Practice-2nd-Edition-3.pdf)  
+[Data Science concepts and practice](https://asolanki.co.in/wp-content/uploads/2019/04/Data-Science-Concepts-and-Practice-2nd-Edition-3.pdf)\  
 Vijay Kotu & Bala Deshpande
+
+[Introduction to machine learning](https://alex.smola.org/drafts/thebook.pdf) \ 
+Alex Smola $ S.V.N. Vishwanathan
+
+[Introduction to Probability for Data Science](https://probability4datascience.com/)  \
+Stanley H. Chan
+
+[Introduction to Modern Statistics](https://openintro-ims.netlify.app/) \ 
+Mine Çetinkaya-Rundel & Johanna Hardin
 
 ### Github
 
