@@ -8,6 +8,7 @@
 - [Spatial analysis](#spatial-analysis)
 - [Web mapping](#web-mapping)
 - [Data visualization](#data-visualization)
+- [Latex](#Latex>)
 - [Other awesome awesomes](#more-awesomes)
 
 ## Remote sensing
@@ -259,6 +260,7 @@ Hengl, T., MacMillan, R.A., (2019). Predictive Soil Mapping with R. OpenGeoHub f
 [Spatial sampling with R](https://dickbrus.github.io/SpatialSamplingwithR/)\
 Dick J. Brus
 
+[Spatial sampling and resampling for Machine Learning](https://opengeohub.github.io/spatial-sampling-ml/index.html)
 
 [Crime mapping in R](https://maczokni.github.io/crime_mapping_textbook/)\
 Reka Solymosi and Juanjo Medina
@@ -488,6 +490,10 @@ Yan Holtz
 [Observable - D3 gallery](https://observablehq.com/@d3/gallery)
 
 [Latex Drawing](https://github.com/xinychen/awesome-latex-drawing)
+
+## Latex
+[Getting Started with LaTeX](https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)\
+By David R. Wilkins, 2nd Edition, Copyright David R. Wilkins 1995
 
 ## More awesomes...
 
