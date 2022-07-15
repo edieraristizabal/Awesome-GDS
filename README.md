@@ -8,7 +8,7 @@
 - [Spatial analysis](#spatial-analysis)
 - [Web mapping](#web-mapping)
 - [Data visualization](#data-visualization)
-- [Latex](#Latex>)
+- [Latex & Marckdown](#Latex>)
 - [Other awesome awesomes](#more-awesomes)
 
 ## Remote sensing
@@ -368,6 +368,11 @@ Prof. J. Zico Kolter
 [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)\
 Carlos Fernandez-Granda (Center for Data Science)
 
+[ML for economics](https://matteocourthoud.github.io/course/ml-econ/01_regression/)\
+[PhD Econometrics](https://matteocourthoud.github.io/course/metrics/)\
+[Data Science with Python](https://matteocourthoud.github.io/course/data-science/)\
+Matteo Courthoud
+
 
 http://www.i.kyoto-u.ac.jp/mlss15/
 
@@ -392,6 +397,7 @@ The Pennsylvania State University
 Instructor: Larry Wasserman
 
 ### Books
+
 [Data Science concepts and practice](https://asolanki.co.in/wp-content/uploads/2019/04/Data-Science-Concepts-and-Practice-2nd-Edition-3.pdf)\  
 Vijay Kotu & Bala Deshpande
 
@@ -403,6 +409,9 @@ Stanley H. Chan
 
 [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) \ 
 Mine Çetinkaya-Rundel & Johanna Hardin
+
+[Econometrics](https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf)\
+Bruce E. Hansen
 
 ### Github
 
@@ -491,9 +500,14 @@ Yan Holtz
 
 [Latex Drawing](https://github.com/xinychen/awesome-latex-drawing)
 
-## Latex
+## Latex & Marckdown
 [Getting Started with LaTeX](https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)\
 By David R. Wilkins, 2nd Edition, Copyright David R. Wilkins 1995
+
+[Marckdown guide](https://www.markdownguide.org/basic-syntax/)
+
+[Writing Mathematic Fomulars in Markdown](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)\
+Archer Reilly
 
 ## More awesomes...
 
