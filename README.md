@@ -72,8 +72,9 @@ Get started [Earth Engine Apps](https://www.earthengine.app/)\
 [Earth Engine Explorer](https://www.google.com/earth/outreach/learn/introduction-to-google-earth-engine/#gamma-4-14)
 Google Earth Outreach  
 
-[Spatial Data Management with Google Earth Engine](https://courses.gisopencourseware.org/course/view.php?id=29)
+[Cloud-based remote sensing with GEE](https://www.eefabook.org/)
 
+[Spatial Data Management with Google Earth Engine](https://courses.gisopencourseware.org/course/view.php?id=29)
 
 [Google Earth Engine End-to-End](https://courses.spatialthoughts.com/end-to-end-gee.html#introduction-to-google-earth-engine)
 
@@ -113,6 +114,9 @@ Prof. Dani Arribas-Bel (University of Liverpool) & Prof. Diego Puga
 
 [Intro to GIS and spatial analysis](https://mgimond.github.io/Spatial/index.html)  
 Manuel Gimond
+
+[Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html)\\
+Tomas Beuzen
 
 PySAL
 http://pysal.org/
@@ -389,6 +393,10 @@ MIT Edx
 Prof. Michael Nielsen
 
 
+[Deep Neural Networks](https://mlatcl.github.io/deepnn/)\
+Prof Neil Lawrence, Dr Ferenc Huszar, Dr Nic Lane
+
+
 [Applied Time Series Analysis](https://online.stat.psu.edu/stat510/)\
 The Pennsylvania State University
 
@@ -508,6 +516,8 @@ By David R. Wilkins, 2nd Edition, Copyright David R. Wilkins 1995
 
 [Writing Mathematic Fomulars in Markdown](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)\
 Archer Reilly
+
+[Jupyter{book}](https://jupyterbook.org/en/stable/intro.html)
 
 ## More awesomes...
 
