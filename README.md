@@ -406,6 +406,10 @@ Instructor: Larry Wasserman
 
 ### Books
 
+[Practical econometrics and data science](https://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/)\
+Andrius Buteikis\
+Vilnius University (Lithuania)
+
 [Data Science concepts and practice](https://asolanki.co.in/wp-content/uploads/2019/04/Data-Science-Concepts-and-Practice-2nd-Edition-3.pdf)\  
 Vijay Kotu & Bala Deshpande
 
