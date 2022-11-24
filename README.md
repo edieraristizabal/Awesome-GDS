@@ -65,18 +65,25 @@ https://opensourceoptions.com/?s=qgis
 
 ### Website
 
-Get started [Earth Engine Apps](https://www.earthengine.app/)\
+Get started [Earth Engine Apps](https://www.earthengine.app/)
+
 
 [Google Earth Engine developers](https://developers.google.com/earth-engine)
 
-[Earth Engine Explorer](https://www.google.com/earth/outreach/learn/introduction-to-google-earth-engine/#gamma-4-14)
+
+[Earth Engine Explorer](https://www.google.com/earth/outreach/learn/introduction-to-google-earth-engine/#gamma-4-14)\
 Google Earth Outreach  
 
-[Cloud-based remote sensing with GEE](https://www.eefabook.org/)
+
+[Cloud-based remote sensing with GEE: Fundamentals and Applications](https://www.eefabook.org/)\
+Jeffrey A. Cardille - McGill University-, Nick Clinton - Google-, Morgan A. Crowley - McGill University-, David Saah - University of San Francisco-
+
 
 [Spatial Data Management with Google Earth Engine](https://courses.gisopencourseware.org/course/view.php?id=29)
 
+
 [Google Earth Engine End-to-End](https://courses.spatialthoughts.com/end-to-end-gee.html#introduction-to-google-earth-engine)
+
 
 [Publishing an Earth Engine App](https://earthoutreachonair.withgoogle.com/events/g4g-earthengine5)
 
@@ -89,9 +96,12 @@ Google Earth Outreach
 
 [HazMapper](https://cmscheip.users.earthengine.app/view/hazmapper)
 
+
 [Sentinel-Landsat Visualizer](https://sanchezpauspro.users.earthengine.app/view/simple-sentinellandsat-visualizer)
 
+
 [Time Series Animation](https://waeldimassi.users.earthengine.app/view/timeseries-animation)
+
 
 [Rainfall Data Exploration](https://juantorres-batllo.users.earthengine.app/view/rainfall-explorer-50)
 
@@ -112,10 +122,10 @@ University of Liverpool\
 Prof. Dani Arribas-Bel (University of Liverpool) & Prof. Diego Puga
 
 
-[Intro to GIS and spatial analysis](https://mgimond.github.io/Spatial/index.html)  
+[Intro to GIS and spatial analysis](https://mgimond.github.io/Spatial/index.html)\ 
 Manuel Gimond
 
-[Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html)\\
+[Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html)\
 Tomas Beuzen
 
 PySAL
@@ -132,6 +142,9 @@ Arizona State University
 
 
 [Geemap](https://geemap.herokuapp.com/voila/render/timelapse.ipynb)
+
+[Introduction to Python for Geographic Data Analysis](https://pythongis.org/index.html)\
+Henrikki Tenkanen, Vuokko Heikinheimo & David Whipp
 
 
 [Spatial data science for sustainable development](https://sustainability-gis.readthedocs.io/en/latest/index.html#)\
@@ -175,10 +188,6 @@ University of Liverpool
 [CASA](https://andrewmaclachlan.github.io/CASA0005repo/analysing-spatial-patterns.html)
 University College London
 Centre for Advanced Spatial Analysis
-
-
-(Intro to GIS and Spatial Analysis)[https://mgimond.github.io/Spatial/]  
-Manuel Gimond
 
 ### Github
 
@@ -251,7 +260,7 @@ Specialist course Doctoral schools of Ghent University
 Dominic Pereira (Python Geospatial Development)
 
 
-[sing Python to Analyze Spatial Data](https://github.com/dersteppenwolf/pycon)\
+[Using Python to Analyze Spatial Data](https://github.com/dersteppenwolf/pycon)\
 Juan Méndez
 
 ### Spatial analysis with R
@@ -277,12 +286,12 @@ Edzer Pebesma, Roger Bivand
 [Spatial Data Science with R](https://rspatial.org/raster/index.html)
 
 
-[Using Spatial Data with R](https://cengel.github.io/R-spatial/)  
+[Using Spatial Data with R](https://cengel.github.io/R-spatial/)\  
 Claudia A Engel
 
 
-[Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)  
-Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton  
+[Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)\  
+Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton\  
 [Libro](https://beanumber.github.io/sds192/schedule.html#Working_with_geospatial_data)
 
 ## Web mapping
@@ -297,12 +306,12 @@ University of Liverpool
 Michael Dorman
 
 
-[A Leaflet map with Node.js and MongoDB](http://deneli.us/a-leaflet-map-with-node-js-and-mongodb/)
+[A Leaflet map with Node.js and MongoDB](http://deneli.us/a-leaflet-map-with-node-js-and-mongodb/)\
 John McCrae\
 Cambridge
 
 
-[Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)  
+[Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)\  
 Prof. Jim Detwiler\
 The Pennsylvania State University
 
@@ -313,8 +322,8 @@ Roth RE, CM Sack, G Baldrica-Franklin, Y Chen, R Donohue, R Tolochko, and N Unde
 Version 0.1. University of Wisconsin Cartography Laboratory: Madison, WI. DOI: 10.5281/zenodo.4009327\
 
 
-[Introduction to web mapping](https://web-mapping.surge.sh/)
-Michael Droman
+[Introduction to web mapping](https://web-mapping.surge.sh/)\
+Michael Droman\
 Beg-Gurion University of the Negev
 
 
@@ -335,8 +344,8 @@ Oregon State University\
 [web-map-workshop](https://github.com/guilhermeiablo/web-map-workshop)\
 Prof. Mike Foster
 
-[Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)  
-Prof. Panagiotis Giannakis  
+[Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)\  
+Prof. Panagiotis Giannakis\  
 PennState, College of Earth and Mineral Science
 
 ### Websites
@@ -353,7 +362,9 @@ A Self-Study Beginner Course in Open Source Geospatial Programming for Data Scie
 
 [Disaster Risk Reduction Knowledge Service](http://drr.ikcest.org/leaf/)
 
+
 [Maptimeboston-Web mapping](http://maptimeboston.github.io/web-maps-101/#0)
+
 
 [Maptimeboston-Leaflet](http://maptimeboston.github.io/leaflet-intro/)
 
@@ -361,11 +372,11 @@ A Self-Study Beginner Course in Open Source Geospatial Programming for Data Scie
 
 ### Courses
 
-[Practical Data Science](http://www.datasciencecourse.org/)  
-[videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22618ea253-ca45-4b14-9f1d-aab501543bd2%22&view=2)  
+[Practical Data Science](http://www.datasciencecourse.org/)\  
+[videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22618ea253-ca45-4b14-9f1d-aab501543bd2%22&view=2)\  
 Prof. Pat Virtue
 
-[Linear Algebra review](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)  
+[Linear Algebra review](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)\  
 Prof. J. Zico Kolter
 
 
@@ -427,7 +438,7 @@ Bruce E. Hansen
 
 ### Github
 
-[Machine Learning](https://github.com/rasbt/stat479-machine-learning-fs19)  
+[Machine Learning](https://github.com/rasbt/stat479-machine-learning-fs19)\  
 Prof. Sebastian Raschka\
 University Wisconsin-Madison
 
@@ -454,7 +465,7 @@ To be published by Cambridge University Press
 Prof. Magnus Erik Hvass Pedersen
 
 
-[Time-series-analysis-using-Python](https://github.com/sarincr/Time-series-analysis-using-Python)
+[Time-series-analysis-using-Python](https://github.com/sarincr/Time-series-analysis-using-Python)\
 Prof. Sarin CR\
 
 
@@ -503,7 +514,7 @@ Kieran Healy, Duke University
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)\
 Claus O. Wilke
 
-[The D3.js Graph Gallery](https://www.d3-graph-gallery.com/index.html)  
+[The D3.js Graph Gallery](https://www.d3-graph-gallery.com/index.html)\ 
 Yan Holtz
 
 [VizHub](https://vizhub.com/)
