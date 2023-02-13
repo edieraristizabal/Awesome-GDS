@@ -91,6 +91,8 @@ Jeffrey A. Cardille - McGill University-, Nick Clinton - Google-, Morgan A. Crow
 
 [Google Earth Engines Apps](https://github.com/edieraristizabal/awesome-earth-engine-apps)
 
+[Perfiles randymajors.org](https://www.randymajors.org/elevation-on-google-maps)
+
 
 [Global Surface Water Animation](https://showcase.earthengine.app/view/jrc-global-surface-water-animation#center=%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-76.81556154179842%2C7.020797314255969%5D%7D;zoom=10;aoi=%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B-75.33419345524091%2C6.373956652872744%5D%2C%5B-75.33419345524091%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.150080850229042%5D%2C%5B-75.08425449039716%2C6.373956652872744%5D%5D%5D%2C%22geodesic%22%3Afalse%2C%22evenOdd%22%3Atrue%7D;render=Fading%20history;fps=10;fade=0.1)
 
