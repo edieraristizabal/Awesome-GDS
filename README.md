@@ -6,6 +6,7 @@
 - [Google Earth Engine](#google-earth-engine)
 - [Machine learning](#machine-learning)
 - [Spatial analysis](#spatial-analysis)
+- [Gaussian Processes](#gaussian-processes)
 - [Web mapping](#web-mapping)
 - [Data visualization](#data-visualization)
 - [Latex & Marckdown](#Latex>)
@@ -21,6 +22,10 @@ University of Alaska
 
 
 [ARSET - Introduction to Synthetic Aperture Radar (NASA)](https://appliedsciences.nasa.gov/join-mission/training/english/arset-introduction-synthetic-aperture-radar)
+
+
+[ARSET - Fundamentals of Machine Learning for Earth Science](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-machine-learning-earth-science)
+
 
 [A tutorial on synthetic aperture radar](https://elib.dlr.de/82313/1/SAR-Tutorial-March-2013.pdf)
 
@@ -61,6 +66,11 @@ https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-n
 
 https://opensourceoptions.com/?s=qgis
 
+### Books
+
+[Practical machine learning and image processing](https://www.globaldevelopment.dk/media/attachments/2021/07/31/practical-machine-learning-and-image-processing-1st-edition.pdf)  
+Himanshu Singh
+
 ## Google Earth Engine
 
 ### Website
@@ -83,6 +93,9 @@ Jeffrey A. Cardille - McGill University-, Nick Clinton - Google-, Morgan A. Crow
 
 
 [Google Earth Engine End-to-End](https://courses.spatialthoughts.com/end-to-end-gee.html#introduction-to-google-earth-engine)
+
+[Google Earth Engine for Water Resources Management](https://courses.spatialthoughts.com/gee-water-resources-management.html)\
+Ujaval Gandhi
 
 
 [Publishing an Earth Engine App](https://earthoutreachonair.withgoogle.com/events/g4g-earthengine5)
@@ -285,7 +298,8 @@ Reka Solymosi and Juanjo Medina
 Edzer Pebesma, Roger Bivand                                       
 
 
-[Spatial Data Science with R](https://rspatial.org/raster/index.html)
+[Spatial Data Science with R](https://rspatial.org/sdm/index.html)\
+Robert J. Hijmans and Jane Elith
 
 
 [Using Spatial Data with R](https://cengel.github.io/R-spatial/)\  
@@ -295,6 +309,16 @@ Claudia A Engel
 [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)\  
 Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton\  
 [Libro](https://beanumber.github.io/sds192/schedule.html#Working_with_geospatial_data)
+
+## Gaussian processes
+
+[Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/chapters/RW.pdf)\
+Carl Edward Rasmussen & Christopher K. I. Williams
+
+
+[Ensemble models from machine learning: an example of wave runup and coastal dune erosion](https://nhess.copernicus.org/articles/19/2295/2019/)\
+Tomas Beuzen, Evan B. Goldstein, and Kristen D. Splinter
+
 
 ## Web mapping
 
@@ -419,6 +443,10 @@ Instructor: Larry Wasserman
 
 ### Books
 
+[Interpretable Machine Learning](https://www.firmai.org/bit/)  
+Christoph Molnar  
+
+
 [Practical econometrics and data science](https://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/)\
 Andrius Buteikis\
 Vilnius University (Lithuania)
@@ -437,6 +465,9 @@ Mine Çetinkaya-Rundel & Johanna Hardin
 
 [Econometrics](https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf)\
 Bruce E. Hansen
+
+[Applied predictive modeling](https://www.ic.unicamp.br/~wainer/cursos/1s2021/432/2013_Book_AppliedPredictiveModeling.pdf)  
+Max Kuhn - Kjell Johson
 
 ### Github
 
