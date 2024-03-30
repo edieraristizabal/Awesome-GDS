@@ -280,8 +280,6 @@ Juan Méndez
 
 ### Spatial analysis with R
 
-[Introduction to R](https://rspatial.org/intr/index.html)
-
 [Predictive Soil Mapping with R](https://soilmapper.org/)\
 Hengl, T., MacMillan, R.A., (2019). Predictive Soil Mapping with R. OpenGeoHub foundation, Wageningen, the Netherlands, 370 pages, www.soilmapper.org, ISBN: 978-0-359-30635-0.
 
@@ -301,6 +299,9 @@ Edzer Pebesma, Roger Bivand
 [Spatial Data Science with R](https://rspatial.org/sdm/index.html)\
 Robert J. Hijmans and Jane Elith
 
+[Spatial Data Science With Applications in R](https://r-spatial.org/book/)\
+Edzer Pebesma, Roger Bivand  
+
 
 [Using Spatial Data with R](https://cengel.github.io/R-spatial/)\  
 Claudia A Engel
@@ -309,6 +310,28 @@ Claudia A Engel
 [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)\  
 Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton\  
 [Libro](https://beanumber.github.io/sds192/schedule.html#Working_with_geospatial_data)
+
+
+[An Introduction to Spatial Data Analysis and Statistics: A Course in R](https://paezha.github.io/spatial-analysis-r/front-matter.html)\
+Antonio Paez - School of Earth, Environment and Society - McMaster University
+
+
+[Statistics and Geodata Analysis using R (SOGA-R))](https://www.geo.fu-berlin.de/en/v/soga-r/index.html)\
+Hartmann, K., Krois, J., Rudolph, A. Department of Earth Sciences, Freie Universitaet Berlin.
+
+[Spatial Point Process Models in R](https://kevintshoemaker.github.io/NRES-746/sppm.html#Introduction%E2%80%94Spatial_Point_Process_Models)\
+Taylor Brown, Otis Clyne, and Elise Pletcher (NR746)
+
+
+[Spatial autocorrelation](https://kevintshoemaker.github.io/NRES-746/spatial_autocorrelation.html)\
+Weylin Gilbert and Cara Piske (NR746)
+
+
+[Mixed effect models](https://kevintshoemaker.github.io/NRES-746/MEM2.html)\
+Kevin Shoemaker (NR746)
+
+
+[Advanced Analysis Methods in Natural Resources and Environmental Science](https://kevintshoemaker.github.io/NRES-746/)
 
 ## Gaussian processes
 
