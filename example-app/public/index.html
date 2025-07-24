@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Geospatial App</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    #map { height: 90vh; width: 100%; }
+    .form-container { position: absolute; top: 10px; right: 10px; background: white; padding: 10px; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div class="form-container">
+    <textarea id="data" rows="3" placeholder="Datos del punto"></textarea>
+    <button id="save">Guardar Punto</button>
+  </div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map').setView([0,0], 2);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap' }).addTo(map);
+
+    let marker;
+    map.on('click', function(e) {
+      if (marker) map.removeLayer(marker);
+      marker = L.marker(e.latlng).addTo(map);
+      marker.lat = e.latlng.lat;
+      marker.lng = e.latlng.lng;
+    });
+
+    document.getElementById('save').addEventListener('click', async () => {
+      if (!marker) return alert('Seleccione un punto');
+      const data = document.getElementById('data').value;
+      const res = await fetch('/api/points', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ lat: marker.lat, lng: marker.lng, data })
+      });
+      const saved = await res.json();
+      L.marker([saved.lat, saved.lng]).addTo(map).bindPopup(saved.data);
+      document.getElementById('data').value = '';
+    });
+
+    async function loadPoints() {
+      const res = await fetch('/api/points');
+      const points = await res.json();
+      points.forEach(p => {
+        L.marker([p.lat, p.lng]).addTo(map).bindPopup(p.data);
+      });
+    }
+    loadPoints();
+  </script>
+</body>
+</html>
