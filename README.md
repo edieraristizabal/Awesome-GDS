@@ -98,6 +98,9 @@ Jeffrey A. Cardille - McGill University-, Nick Clinton - Google-, Morgan A. Crow
 Ujaval Gandhi
 
 
+[LYRASENSE](https://lyrasense.com) - Agentic AI notebook platform for geospatial data science with Google Earth Engine integration and 28+ ready-to-use analysis templates.
+
+
 [Publishing an Earth Engine App](https://earthoutreachonair.withgoogle.com/events/g4g-earthengine5)
 
 ### Aplication
