@@ -228,6 +228,9 @@ https://github.com/shakasom
 
 https://github.com/acgeospatial
 
+[emem](https://github.com/Vortx-AI/emem)\
+Earth memory MCP server for geospatial AI agents to retrieve signed facts and receipts about places.
+
 ### Webpages
 
 http://www.spatialanalysisonline.com/HTML/index.html
