@@ -413,6 +413,8 @@ A Self-Study Beginner Course in Open Source Geospatial Programming for Data Scie
 
 
 [Maptimeboston-Web mapping](http://maptimeboston.github.io/web-maps-101/#0)
+[Mapbase](https://mapbase.dev/) - Location registry API for official locations, custom zones, hierarchy, geometry, and SEO-ready location context.
+
 
 
 [Maptimeboston-Leaflet](http://maptimeboston.github.io/leaflet-intro/)
